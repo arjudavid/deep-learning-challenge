@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Deep-Learning-Challenge
 
 ## Step 1: Preprocess the Data
 Using your knowledge of Pandas and scikit-learn’s StandardScaler(), you’ll need to preprocess the dataset. This step prepares you for Step 2, where you'll compile, train, and evaluate the neural network model.
@@ -75,4 +75,5 @@ Use any or all of the following methods to optimize your model:
 
 ## At last you can find a 'Report' in the repo which contains an analysis of the model!
 
-IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/. The data was provided by edX Boot Camps LLC, and is intended for educational purposes only. The code was written by David Ruvalcaba with assistance of Xpert Learning.
+> [!NOTE]
+> [IRS. Tax Exempt Organization Search Bulk Data Downloads](https://www.irs.gov/). The data was provided by edX Boot Camps LLC, and is intended for educational purposes only. The code was written by David Ruvalcaba with assistance of Xpert Learning.
